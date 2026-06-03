@@ -1,0 +1,33 @@
+{
+  "showGettingStartedBanner": true,
+  "hasMigratedDailyNoteSettings": false,
+  "hasMigratedWeeklyNoteSettings": false,
+  "daily": {
+    "format": "YYYY-MM-DD ddd",
+    "template": "03 Resources/R-模板资源/日记模板.md",
+    "folder": "02 Areas/00 A-记录/DailyLog",
+    "enabled": true
+  },
+  "weekly": {
+    "format": "",
+    "template": "03 Resources/R-模板资源/周复盘模版.md",
+    "folder": "02 Areas/00 A-记录/WeeklyLog",
+    "enabled": true
+  },
+  "monthly": {
+    "format": "",
+    "template": "03 Resources/R-模板资源/月复盘模板.md",
+    "folder": "02 Areas/00 A-记录/MonthlyLog",
+    "enabled": true
+  },
+  "quarterly": {
+    "format": "",
+    "template": "",
+    "folder": ""
+  },
+  "yearly": {
+    "format": "",
+    "template": "",
+    "folder": ""
+  }
+}
