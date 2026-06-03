@@ -51,10 +51,39 @@
 | Periodic Notes | 管理日记、周记、月记等周期性笔记。 |
 | Claudian | 将 AI 协作工具嵌入 Obsidian 工作流，便于在库内进行文件读写、检索和多步骤协作。 |
 
+## 如何下载这个仓库
+
+仓库地址：
+
+```text
+https://github.com/2025Emma/Obsidian-Vault
+```
+
+### 方式一：直接下载 ZIP
+
+适合不熟悉 Git，只想快速使用这套基础库的人。
+
+1. 打开 GitHub 仓库页面：`https://github.com/2025Emma/Obsidian-Vault`。
+2. 点击页面右上方的绿色按钮 `Code`。
+3. 选择 `Download ZIP`。
+4. 下载完成后解压压缩包。
+5. 把解压后的文件夹移动到你想存放知识库的位置。
+6. 打开 Obsidian，选择“打开本地仓库”，选中这个文件夹即可。
+
+### 方式二：使用 Git 克隆
+
+适合想持续同步更新、保留版本记录，或者后续自己也要用 GitHub 管理知识库的人。
+
+```powershell
+git clone https://github.com/2025Emma/Obsidian-Vault.git
+```
+
+克隆完成后，打开 Obsidian，选择“打开本地仓库”，再选择刚刚下载下来的 `Obsidian-Vault` 文件夹。
+
 ## 快速开始
 
 1. 安装 Obsidian。
-2. 克隆或下载这个仓库到本地。
+2. 通过 ZIP 下载或 Git 克隆，把这个仓库保存到本地。
 3. 在 Obsidian 中选择“打开本地仓库”，并选择本仓库文件夹。
 4. 根据提示启用社区插件。
 5. 从 `00 Inbox` 开始收集临时内容。
