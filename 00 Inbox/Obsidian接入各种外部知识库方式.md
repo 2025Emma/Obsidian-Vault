@@ -21,19 +21,3 @@ https://bytedance.larkoffice.com/wiki/ILuTww7Xcimb6GkhH0mcK2f4nS7
 
 
 
-
-
-\## Claudian插件安装配置参考
-
-
-
-1）安装ClaudeCode
-
-https://mp.weixin.qq.com/s/5S6QqzMNdUsPMHFr-RQE8g
-
-
-
-2）在Obsidian中配置Claudian
-
-https://mp.weixin.qq.com/s/vcib3UddxrFA20tZ1t0ETA
-
