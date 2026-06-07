@@ -1,3 +1,4 @@
 .claudian/
-.claude/skills/second-brain-coach/
 *.exe
+.claude/skills/second-brain-coach/.git/
+.claude/skills/second-brain-coach/second-brain-coach/
